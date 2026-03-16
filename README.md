@@ -21,6 +21,7 @@ Table of Contents:
   - [3.1 Text](#31-text)
   - [3.2 Multimodal](#32-multimodal)
 - [4. Benchmarks](#4-benchmarks)
+- [5. Contributing](#5-contributing)
 
 ![](https://camo.githubusercontent.com/2722992d519a722218f896d5f5231d49f337aaff4514e78bd59ac935334e916a/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67)
 
@@ -143,3 +144,18 @@ Table of Contents:
 </div>
 
 [![Star History Chart](https://api.star-history.com/svg?repos=FreedomIntelligence/Medical_NLP&type=Date)](https://star-history.com/#FreedomIntelligence/Medical_NLP)
+
+## 5. Contributing
+
+We welcome contributions! If you'd like to add a new model, dataset, or benchmark, please open a pull request with the following information:
+
+- **Model/Dataset/Benchmark Name**: The name of the resource.
+- **Paper**: A link to the associated paper (arXiv or published venue).
+- **Link**: A link to the model weights, dataset, or code (Hugging Face, GitHub, etc.).
+- **Brief description**: A short summary of what makes the resource noteworthy.
+
+Please ensure that any added resource is publicly available and directly relevant to medical AI. Thank you for helping keep this list up to date!
+
+<div align="right">
+  <b><a href="#contents">↥ back to top</a></b>
+</div>
